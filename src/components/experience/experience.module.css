@@ -73,30 +73,7 @@
 }
 
 .experience__list {
-  list-style: none;
-  padding-left: 0;
-}
-
-.experience__item {
-  margin: var(--space-4) 0;
-}
-
-.experience__item:last-child {
-  margin-bottom: 0;
-}
-
-.experience__item {
-  display: flex;
-  align-items: flex-start;
-  gap: var(--space-1);
-}
-
-.experience__bulletIcon {
-  width: var(--icon-sm);
-  height: var(--icon-sm);
-  color: var(--color-primary);
-  margin-top: 0.2em;
-  flex: 0 0 auto;
+  margin-top: var(--space-3);
 }
 
 .experience__badge {

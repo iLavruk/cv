@@ -2,6 +2,7 @@ import type { ExperienceItem } from '@types'
 import { SectionId } from '@lib/constants/sections.constant'
 import styles from './experience.module.css'
 import { contactIcons, miscIcons } from '@/lib/icons/lucide-map'
+import BulletList from '@components/ui/bullet-list/BulletList'
 
 type ExperienceProps = {
   items: ExperienceItem[]
@@ -29,17 +30,7 @@ export default function Experience({ items }: ExperienceProps) {
                   <miscIcons.Calendar className={styles.experience__icon} aria-hidden="true" />
                   {period}
                 </div>
-                <ul className={styles.experience__list}>
-                  {bullets.map((b, i) => (
-                    <li key={i} className={styles.experience__item}>
-                      <miscIcons.ChevronRight
-                        className={styles.experience__bulletIcon}
-                        aria-hidden="true"
-                      />
-                      <span>{b}</span>
-                    </li>
-                  ))}
-                </ul>
+                <BulletList items={bullets} className={styles.experience__list} />
               </div>
               <div className={`badge ${styles.experience__badge}`}>
                 <contactIcons.location className={styles.experience__icon} aria-hidden="true" />

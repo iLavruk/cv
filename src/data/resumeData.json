@@ -1,7 +1,7 @@
 {
   "name": "Ivan Lavruk",
   "tagline": "Building fast, beautiful, and meaningful web applications with React.",
-  "title": "Frontend Developer — React — TypeScript — UI/UX",
+  "title": "Frontend Developer | React | TypeScript | UI/UX",
   "contacts": {
     "email": "ivanlavruk9@gmail.com",
     "phone": "+49 1578 3060764",
@@ -10,7 +10,11 @@
     "github": "https://github.com/iLavruk"
   },
   "skills": {
-    "Main Stack": ["React", "TypeScript", "JavaScript"],
+    "Main Stack": [
+      "React",
+      "TypeScript",
+      "JavaScript"
+    ],
     "Frontend": [
       "JavaScript",
       "TypeScript",
@@ -22,16 +26,29 @@
       "Bootstrap",
       "WordPress"
     ],
-    "Design": ["UI/UX", "Figma", "Adobe Photoshop", "Illustrator"],
-    "Testing": ["Cypress (Automation)"],
-    "Other": ["Responsive Design", "Cross-browser", "Git", "GitHub Actions", "Video Editing"]
+    "Design": [
+      "UI/UX",
+      "Figma",
+      "Adobe Photoshop",
+      "Illustrator"
+    ],
+    "Testing": [
+      "Cypress (Automation)"
+    ],
+    "Other": [
+      "Responsive Design",
+      "Cross-browser",
+      "Git",
+      "GitHub Actions",
+      "Video Editing"
+    ]
   },
   "experience": [
     {
       "role": "Frontend Developer",
       "company": "Binary Studio Academy",
       "location": "Berlin, Germany",
-      "period": "Jun 2025 — Aug 2025",
+      "period": "Jun 2025 - Aug 2025",
       "bullets": [
         "Built core features for the Meetlytic project.",
         "Implemented UI components with React, TypeScript, Redux Toolkit, CSS.",
@@ -44,7 +61,7 @@
       "role": "Web Developer | QA Automation",
       "company": "Plutio",
       "location": "Ivano-Frankivsk, Ukraine",
-      "period": "Aug 2022 — May 2023",
+      "period": "Aug 2022 - May 2023",
       "bullets": [
         "Developed and maintained web applications, optimizing performance and UX.",
         "Wrote automated tests with Cypress.",
@@ -55,7 +72,7 @@
       "role": "HTML/CSS Developer | UI/UX Designer",
       "company": "d.istra",
       "location": "Ivano-Frankivsk, Ukraine",
-      "period": "Aug 2018 — Aug 2022",
+      "period": "Aug 2018 - Aug 2022",
       "bullets": [
         "Built responsive web interfaces using HTML5, CSS3, SCSS, Bootstrap, WordPress.",
         "Designed marketing materials, banners, and logos, ensuring brand consistency.",
@@ -65,20 +82,36 @@
   ],
   "education": [
     {
-      "title": "SoftServe IT Academy — React Online Marathon",
-      "place": "Ivano-Frankivsk, Ukraine",
-      "period": "Feb 2022 — May 2022"
+      "title": "Frontend Developer - Professional Development",
+      "place": "Self-directed, Berlin, Germany",
+      "period": "Aug 2025 - Jan 2026",
+      "bullets": [
+        "Improved German language skills (B1 -> B1+) with focus on professional and technical communication.",
+        "Developed personal frontend projects using React and TypeScript.",
+        "Strengthened knowledge of state management, component architecture, and UI performance optimization.",
+        "Practiced clean code principles, Git workflows, and real-world project structuring.",
+        "Prepared portfolio, CV, and technical profile for the German job market."
+      ]
     },
     {
-      "title": "Master's Degree in Software Engineering — IFNTUOG",
+      "title": "SoftServe IT Academy - React Online Marathon",
       "place": "Ivano-Frankivsk, Ukraine",
-      "period": "2013 — 2019"
+      "period": "Feb 2022 - May 2022"
+    },
+    {
+      "title": "Master's Degree in Software Engineering - IFNTUOG",
+      "place": "Ivano-Frankivsk, Ukraine",
+      "period": "2013 - 2019"
     }
   ],
   "languages": [
     {
       "name": "Ukrainian",
       "level": "Native"
+    },
+    {
+      "name": "Russian",
+      "level": "Fluent"
     },
     {
       "name": "English",
@@ -115,7 +148,7 @@
       "description": "Chess develops strategic thinking and the ability to plan ahead."
     }
   ],
-  "summary": "I\u0027m Ivan Lavruk, a Frontend Developer passionate about creating modern, intuitive, and high-performance web applications.\nI specialize in the React ecosystem and enjoy transforming complex ideas into clean and engaging user experiences.\nBeyond coding, I\u0027m inspired by design, technology, and continuous learning - always seeking new ways to grow and innovate.",
+  "summary": "I'm Ivan Lavruk, a Frontend Developer passionate about creating modern, intuitive, and high-performance web applications.\nI specialize in the React ecosystem and enjoy transforming complex ideas into clean and engaging user experiences.\nBeyond coding, I'm inspired by design, technology, and continuous learning - always seeking new ways to grow and innovate.",
   "available": true,
   "cvUrl": "cv/CV_Ivan_Lavruk_en.pdf"
 }

@@ -2,6 +2,7 @@ import type { EducationItem } from '@types'
 import { SectionId } from '@lib/constants/sections.constant'
 import styles from './education.module.css'
 import { miscIcons } from '@/lib/icons/lucide-map'
+import BulletList from '@components/ui/bullet-list/BulletList'
 
 type EducationProps = {
   items: EducationItem[]
@@ -16,11 +17,12 @@ export default function Education({ items }: EducationProps) {
       </div>
       <div className={`container ${styles.education__wrap}`}>
         <ul className={styles.education__grid}>
-          {items.map(({ title, place, period }) => (
+          {items.map(({ title, place, period, bullets }) => (
             <li className={`${styles.education__card} card`} key={`${title}-${period}`}>
               <div className={styles.education__body}>
                 <h3 className={styles.education__degree}>{title}</h3>
                 <div className={styles.education__place}>{place}</div>
+                <BulletList items={bullets} className={styles.education__list} />
               </div>
               <div className={`badge ${styles.education__period}`}>
                 <miscIcons.Calendar className={styles.education__icon} aria-hidden="true" />

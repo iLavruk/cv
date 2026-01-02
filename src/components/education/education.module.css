@@ -46,6 +46,9 @@
   width: var(--icon-sm);
   height: var(--icon-sm);
 }
+.education__list {
+  margin-top: var(--space-3);
+}
 
 @media (max-width: 768px) {
   .education__grid {
