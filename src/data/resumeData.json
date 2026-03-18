@@ -1,7 +1,7 @@
 {
   "name": "Ivan Lavruk",
-  "tagline": "Building fast, beautiful, and meaningful web applications with React.",
-  "title": "Frontend Developer | React | TypeScript | UI/UX",
+  "tagline": "Frontend Developer specializing in React and TypeScript with experience building responsive web applications and integrating REST APIs.",
+  "title": "Frontend Developer | React | TypeScript",
   "contacts": {
     "email": "ivanlavruk9@gmail.com",
     "phone": "+49 1578 3060764",
@@ -10,97 +10,119 @@
     "github": "https://github.com/iLavruk"
   },
   "skills": {
-    "Main Stack": [
-      "React",
-      "TypeScript",
-      "JavaScript"
-    ],
     "Frontend": [
       "JavaScript",
       "TypeScript",
       "React",
+      "React Hooks",
+      "React Router",
       "Redux Toolkit",
+      "Context API"
+    ],
+    "Web": [
       "HTML5",
       "CSS3",
       "SCSS",
       "Bootstrap",
-      "WordPress"
+      "Flexbox",
+      "CSS Grid",
+      "Responsive Design"
     ],
-    "Design": [
-      "UI/UX",
-      "Figma",
-      "Adobe Photoshop",
-      "Illustrator"
+    "API & Data": [
+      "REST API",
+      "JSON",
+      "Fetch API",
+      "Axios",
+      "Async/Await"
+    ],
+    "Backend Fundamentals": [
+      "Node.js",
+      "Express.js"
     ],
     "Testing": [
-      "Cypress (Automation)"
+      "Cypress (E2E Testing)"
+    ],
+    "Tools": [
+      "Git",
+      "GitHub",
+      "npm",
+      "Vite",
+      "Webpack",
+      "GitHub Actions (CI/CD)"
+    ],
+    "Design & Tools": [
+      "Figma",
+      "Adobe Photoshop"
     ],
     "Other": [
-      "Responsive Design",
-      "Cross-browser",
-      "Git",
-      "GitHub Actions",
-      "Video Editing"
+      "WordPress",
+      "SEO",
+      "Video editing & production"
     ]
   },
   "experience": [
-    {
-      "role": "Frontend Developer",
-      "company": "Binary Studio Academy",
-      "location": "Berlin, Germany",
-      "period": "Jun 2025 - Aug 2025",
-      "bullets": [
-        "Built core features for the Meetlytic project.",
-        "Implemented UI components with React, TypeScript, Redux Toolkit, CSS.",
-        "Contributed to auth flow, meeting management, and dashboard UI.",
-        "Gained experience with GitHub Actions, CI/CD, and code reviews."
-      ],
-      "tag": "Team-based Training Program"
-    },
     {
       "role": "Web Developer | QA Automation",
       "company": "Plutio",
       "location": "Ivano-Frankivsk, Ukraine",
       "period": "Aug 2022 - May 2023",
       "bullets": [
-        "Developed and maintained web applications, optimizing performance and UX.",
-        "Wrote automated tests with Cypress.",
-        "Collaborated cross-functionally to enhance product features."
+        "Developed and maintained JavaScript-based web applications, improving application performance and user experience.",
+        "Implemented end-to-end testing using Cypress, reducing regression bugs and improving release stability.",
+        "Collaborated with developers and designers to deliver new product features."
       ]
     },
     {
-      "role": "HTML/CSS Developer | UI/UX Designer",
+      "role": "Frontend & WordPress Developer | UI/UX Designer",
       "company": "d.istra",
       "location": "Ivano-Frankivsk, Ukraine",
       "period": "Aug 2018 - Aug 2022",
       "bullets": [
-        "Built responsive web interfaces using HTML5, CSS3, SCSS, Bootstrap, WordPress.",
-        "Designed marketing materials, banners, and logos, ensuring brand consistency.",
-        "Improved UI/UX for accessibility and engagement."
+        "Developed responsive web interfaces using HTML5, CSS3, SCSS, Bootstrap, and customized WordPress themes.",
+        "Managed WordPress content, created user accounts, assigned roles and permissions, and prepared client usage instructions.",
+        "Applied semantic markup and basic SEO practices to improve UI/UX, accessibility, and user engagement."
       ]
     }
   ],
   "education": [
     {
-      "title": "Frontend Developer - Professional Development",
-      "place": "Self-directed, Berlin, Germany",
-      "period": "Aug 2025 - Jan 2026",
+      "title": "Self-Development & Language Studies",
+      "place": "Berlin, Germany",
+      "period": "May 2023 - Present",
       "bullets": [
-        "Improved German language skills (B1 -> B1+) with focus on professional and technical communication.",
-        "Developed personal frontend projects using React and TypeScript.",
-        "Strengthened knowledge of state management, component architecture, and UI performance optimization.",
-        "Practiced clean code principles, Git workflows, and real-world project structuring.",
-        "Prepared portfolio, CV, and technical profile for the German job market."
+        "Continuous professional development in frontend technologies and German language.",
+        "Developing a personal project \"MoodBoard AI\" using React and Node.js (AI-powered image board platform)."
       ]
     },
     {
-      "title": "SoftServe IT Academy - React Online Marathon",
+      "title": "CHI IT Academy – Full-Stack JavaScript Course",
+      "place": "Berlin, Germany",
+      "period": "Dec 2025 - Mar 2026",
+      "bullets": [
+        "Completed full-stack JavaScript training covering React, TypeScript, Redux Toolkit, Node.js, Express, and PostgreSQL.",
+        "Built training applications with REST API integration, authentication (JWT), and deployment to AWS."
+      ]
+    },
+    {
+      "title": "Binary Studio Academy – Frontend Developer",
+      "place": "Berlin, Germany",
+      "period": "Jun 2025 - Aug 2025",
+      "tag": "Team-based Training Program",
+      "bullets": [
+        "Built core features for the Meetlytic project.",
+        "Implemented UI components with React, TypeScript, Redux Toolkit, CSS.",
+        "Contributed to authentication flow, meeting management, and dashboard UI.",
+        "Gained experience with GitHub Actions, CI/CD pipelines, and code reviews."
+      ]
+    },
+    {
+      "title": "SoftServe IT Academy – React Online Marathon",
       "place": "Ivano-Frankivsk, Ukraine",
       "period": "Feb 2022 - May 2022"
     },
     {
-      "title": "Master's Degree in Software Engineering - IFNTUOG",
-      "place": "Ivano-Frankivsk, Ukraine",
+      "title": "Master's Degree in Software Engineering",
+      "place": "Ivano-Frankivsk National Technical University, Ukraine",
       "period": "2013 - 2019"
     }
   ],
@@ -148,7 +170,7 @@
       "description": "Chess develops strategic thinking and the ability to plan ahead."
     }
   ],
-  "summary": "I'm Ivan Lavruk, a Frontend Developer passionate about creating modern, intuitive, and high-performance web applications.\nI specialize in the React ecosystem and enjoy transforming complex ideas into clean and engaging user experiences.\nBeyond coding, I'm inspired by design, technology, and continuous learning - always seeking new ways to grow and innovate.",
+  "summary": "Frontend Developer specializing in React and TypeScript with experience building responsive web applications and integrating REST APIs. Experienced with Cypress testing and basic Node.js backend development.",
   "available": true,
   "cvUrl": "cv/CV_Ivan_Lavruk_en.pdf"
 }
