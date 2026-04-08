@@ -1,6 +1,6 @@
 {
   "name": "Ivan Lavruk",
-  "tagline": "Frontend Developer specializing in React and TypeScript with experience building responsive web applications and integrating REST APIs.",
+  "tagline": "Frontend Developer with experience building responsive React applications, integrating REST APIs, and working in modern team environments.",
   "title": "Frontend Developer | React | TypeScript",
   "contacts": {
     "email": "ivanlavruk9@gmail.com",
@@ -37,7 +37,8 @@
     ],
     "Backend Fundamentals": [
       "Node.js",
-      "Express.js"
+      "Express.js",
+      "PostgreSQL"
     ],
     "Testing": [
       "Cypress (E2E Testing)"
@@ -62,10 +63,24 @@
   },
   "experience": [
     {
+      "role": "Frontend Developer Intern (Praktikum)",
+      "tag": "Current role",
+      "company": "Think3DDD",
+      "location": "Berlin, Germany",
+      "period": "March 2026 - Present",
+      "bullets": [
+        "Development of web interfaces using React, TypeScript, Tailwind CSS.",
+        "Refactoring and improving frontend architecture.",
+        "Migration of the project to TypeScript and pnpm.",
+        "Writing and maintaining frontend documentation and coding guidelines.",
+        "Collaboration with backend and product teams."
+      ]
+    },
+    {
       "role": "Web Developer | QA Automation",
       "company": "Plutio",
       "location": "Ivano-Frankivsk, Ukraine",
-      "period": "Aug 2022 - May 2023",
+      "period": "August 2022 - May 2023",
       "bullets": [
         "Developed and maintained JavaScript-based web applications, improving application performance and user experience.",
         "Implemented end-to-end testing using Cypress, reducing regression bugs and improving release stability.",
@@ -76,7 +91,7 @@
       "role": "Frontend & WordPress Developer | UI/UX Designer",
       "company": "d.istra",
       "location": "Ivano-Frankivsk, Ukraine",
-      "period": "Aug 2018 - Aug 2022",
+      "period": "August 2018 - August 2022",
       "bullets": [
         "Developed responsive web interfaces using HTML5, CSS3, SCSS, Bootstrap, and customized WordPress themes.",
         "Managed WordPress content, created user accounts, assigned roles and permissions, and prepared client usage instructions.",
@@ -95,19 +110,18 @@
       ]
     },
     {
-      "title": "CHI IT Academy – Full-Stack JavaScript Course",
-      "place": "Berlin, Germany",
-      "period": "Dec 2025 - Mar 2026",
+      "title": "Full-Stack JavaScript Course",
+      "place": "CHI IT Academy, Berlin, Germany",
+      "period": "December 2025 - March 2026",
       "bullets": [
         "Completed full-stack JavaScript training covering React, TypeScript, Redux Toolkit, Node.js, Express, and PostgreSQL.",
         "Built training applications with REST API integration, authentication (JWT), and deployment to AWS."
       ]
     },
     {
-      "title": "Binary Studio Academy – Frontend Developer",
-      "place": "Berlin, Germany",
-      "period": "Jun 2025 - Aug 2025",
-      "tag": "Team-based Training Program",
+      "title": "Frontend Developer (Team-based Training Program)",
+      "place": "Binary Studio Academy, Berlin, Germany",
+      "period": "June 2025 - August 2025",
       "bullets": [
         "Built core features for the Meetlytic project.",
         "Implemented UI components with React, TypeScript, Redux Toolkit, CSS.",
@@ -116,9 +130,9 @@
       ]
     },
     {
-      "title": "SoftServe IT Academy – React Online Marathon",
-      "place": "Ivano-Frankivsk, Ukraine",
-      "period": "Feb 2022 - May 2022"
+      "title": "React Online Marathon",
+      "place": "SoftServe IT Academy, Ivano-Frankivsk, Ukraine",
+      "period": "February 2022 - May 2022"
     },
     {
       "title": "Master's Degree in Software Engineering",
@@ -137,11 +151,11 @@
     },
     {
       "name": "English",
-      "level": "B2"
+      "level": "Upper-Intermediate (B2)"
     },
     {
       "name": "German",
-      "level": "B1"
+      "level": "Intermediate (B1)"
     }
   ],
   "interests": [
@@ -170,7 +184,7 @@
       "description": "Chess develops strategic thinking and the ability to plan ahead."
     }
   ],
-  "summary": "Frontend Developer specializing in React and TypeScript with experience building responsive web applications and integrating REST APIs. Experienced with Cypress testing and basic Node.js backend development.",
+  "summary": "Frontend Developer with commercial experience in React and TypeScript, currently gaining hands-on experience. I build responsive interfaces, integrate REST APIs, and work with modern frontend tooling, Cypress testing, and backend fundamentals such as Node.js, Express, and PostgreSQL.\n\nMy background spans product development, WordPress/UI implementation, QA automation, and team-based training programs, which helps me ship practical, user-focused interfaces and collaborate effectively in modern workflows.",
   "available": true,
   "cvUrl": "cv/CV_Ivan_Lavruk_en.pdf"
 }
